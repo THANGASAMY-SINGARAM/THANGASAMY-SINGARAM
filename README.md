@@ -51,14 +51,6 @@
 
 ---
 
-### 💼 Experience
-
-**Software Development Intern — CodeTech Technology** *(2025, Ongoing)*
-- Built a full-stack E-Commerce Platform (MERN) with JWT authentication, product search/filters, Stripe payment gateway, and an admin dashboard.
-- Integrated AI-powered product recommendations into the platform.
-
----
-
 ### 📌 Featured Projects
 
 #### 🛣️ [LaneMark Chromaticity AI](https://github.com/THANGASAMY-SINGARAM)
@@ -90,7 +82,6 @@ A real-time object and color detection system for live video stream classificati
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=THANGASAMY-SINGARAM&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THANGASAMY-SINGARAM" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
