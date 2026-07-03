@@ -94,18 +94,6 @@ A real-time object and color detection system for live video stream classificati
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THANGASAMY-SINGARAM&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANGASAMY-SINGARAM&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
